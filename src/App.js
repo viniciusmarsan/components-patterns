@@ -10,10 +10,13 @@ function App() {
         <Lexend text="Lexend" size="80px" weight={600} color="#061C3D" />
         <Alert
           title="This is a info alert"
-          subtitle="Neymar e ganso, super suport tft é pessimo e a alessandra negrine"
-          status="alert"
+          subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          status="error"
           type=""
           filledBackground={false}
+          linkRedirect="www.google.com.br"
+          linkText="Alert link"
+          hasIconClose
         />
       </div>
     </div>
