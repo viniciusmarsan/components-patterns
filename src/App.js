@@ -10,7 +10,7 @@ function App() {
         <Lexend text="Lexend" size="80px" weight={600} color="#061C3D" />
         <Alert
           title="This is a info alert"
-          subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit. teste tset"
           status="error"
           type=""
           filledBackground={false}
