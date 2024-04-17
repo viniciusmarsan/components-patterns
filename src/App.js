@@ -11,7 +11,11 @@ function App() {
         <Lexend text="Lexend" size="80px" weight={600} color="#061C3D" />
         <Alert
           title="This is a info alert"
+<<<<<<< Updated upstream
           subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit. teste tse tstywets sets te st"
+=======
+          subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit. teste teste teste"
+>>>>>>> Stashed changes
           status="error"
           type=""
           filledBackground={false}
